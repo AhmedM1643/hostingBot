@@ -8,7 +8,7 @@
   "server": {
     "ip": "elserver_elgedeed.aternos.me",
     "port": 63369,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
