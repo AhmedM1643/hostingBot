@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ahsanserver.falixsrv.me",
-    "port": 28385,
+    "ip": "elserver_elgedeed.aternos.me",
+    "port": 63369,
     "version": "1.21.11",
     "try-creative": false
   },
