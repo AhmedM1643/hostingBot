@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "proPlayer2018",
+    "username": "proPlayer_2018",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "elserver_elgedeed.aternos.me",
     "port": 63369,
-    "version": "1.21.1",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -32,6 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
