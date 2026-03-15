@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "proPlayer2018",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "elserver_elgedeed.aternos.me",
-    "port": 63369,
+    "ip": "ahsanserver.falixsrv.me",
+    "port": 28385,
     "version": "1.21.11",
     "try-creative": false
   },
